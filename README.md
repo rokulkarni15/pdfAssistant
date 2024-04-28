@@ -1,4 +1,6 @@
-PDF Assistant allows you to upload a PDF document and ask queries related to the document. Built using Ollama, Langchain, ChromaDB and Streamlit.
+# pdfAssistant
+
+pdfAssistant allows you to upload a PDF document and ask queries related to the document. Built using Ollama, Langchain, ChromaDB and Streamlit.
 
 1. Install ollama from https://ollama.com/download
 2. To have the Mistral 7B LLM from ollama running locally, open your cli and run the command
